@@ -24,8 +24,10 @@
       "fc7aa9a70b4ae86d30b93a98e853716a4217e77c60769f664da3c6189647d3ba"
   }
   {
- "symbol": "HONKS",
- "name": "HONKS",
- "tokenId": "f35007140e40c4b6ce4ecc9ad166101ad94562b3e4f650a30de10b8a80c0b987"
-}
+    "symbol": "HONKS",
+    "name": "HONKS",
+    "tokenId":
+      "f35007140e40c4b6ce4ecc9ad166101ad94562b3e4f650a30de10b8a80c0b987"
+  },
+
 ]
