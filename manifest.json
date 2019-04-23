@@ -34,5 +34,11 @@
     "name": "HONKS",
     "tokenId":
       "f35007140e40c4b6ce4ecc9ad166101ad94562b3e4f650a30de10b8a80c0b987"
+  },
+  {
+    "symbol": "HONK",
+    "name": "HONK HONK",
+    "tokenId":
+      "7f8889682d57369ed0e32336f8b7e0ffec625a35cca183f4e81fde4e71a538a1"
   }
 ]
