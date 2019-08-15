@@ -143,5 +143,11 @@
     "tokenId":
       "141cf78353b0d2681ff8f027855e9b07db19548fb1b449e40b73e093084ead4a",
   }
+       {
+    "symbol": "KISS",
+    "name": "Kiss",
+    "tokenId":
+      "116b21c0c84503e16ecdbdb81ab3f1e59ded2d226632856c7f3ca1c834d480bd",
+  }
 	
 ]
