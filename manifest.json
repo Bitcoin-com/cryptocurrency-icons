@@ -142,6 +142,12 @@
     "name": "41st Street",
     "tokenId":
       "141cf78353b0d2681ff8f027855e9b07db19548fb1b449e40b73e093084ead4a",
+  },
+	{
+    "symbol": "CFE",
+    "name": "The Coffee Token",
+    "tokenId":
+      "4d7a4ca189f373ceadb66a76523a43357a29342626e5418287504679d7a58c33",
   }
 	
 ]
