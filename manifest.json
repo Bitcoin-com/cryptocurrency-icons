@@ -148,6 +148,11 @@
     "name": "The Coffee Token",
     "tokenId":
       "4d7a4ca189f373ceadb66a76523a43357a29342626e5418287504679d7a58c33",
+  },
+  {
+    "symbol": "LEAD",
+    "name": "LEAD Token",
+    "tokenId":
+      "29d353a3d19cdd7324f1c14b3fe289293976842869fed1bea3f9510558f6f006",
   }
-	
 ]
