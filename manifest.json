@@ -172,5 +172,11 @@
     "name": "Zurich BCH Meetup Token",
     "tokenId":
       "f66c6d0ac6b8c5c4ed469234ec9734f6d3499b0351b22349f40e617d22254fec",
+  },
+	{
+    "symbol": "MIAMI",
+    "name": "Miami Token 2020",
+    "tokenId":
+      "eebaa04d0e715b7bd21901cb60e10d7f71d219626daf24c57ce6ea9584333149",
   }
 ]
