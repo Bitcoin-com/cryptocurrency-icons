@@ -166,5 +166,11 @@
     "name": "BENIBORO CBD Tabakersatz",
     "tokenId":
       "24b9b2c444e95665ecdec49e2d93c6fe7b7767cbc5219b7cf16bf7d9abfb1572",
+  },
+	{
+    "symbol": "zBCH",
+    "name": "Zurich BCH Meetup Token",
+    "tokenId":
+      "f66c6d0ac6b8c5c4ed469234ec9734f6d3499b0351b22349f40e617d22254fec",
   }
 ]
