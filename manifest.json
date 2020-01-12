@@ -160,5 +160,11 @@
     "name": "SOUR",
     "tokenId":
       "6448381f9649ecacd8c30189cfbfee71a91b6b9738ea494fe33f8b8b51cbfca0",
+  },
+	{
+    "symbol": "MIAMI",
+    "name": "	Miami Token 2020",
+    "tokenId":
+      "eebaa04d0e715b7bd21901cb60e10d7f71d219626daf24c57ce6ea9584333149",
   }
 ]
