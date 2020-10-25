@@ -5,6 +5,12 @@
     "tokenId":
       "3500c3e8100e6107ee1178b70c3baa0553222cedf8fca0ac2aed9bbd9fe13667"
   },
+   {
+    "symbol": "WNRZ",
+    "name": "WinPlay",
+    "tokenId":
+      "559863e4c0e64763720dab68393b7a68e37b6dd21565e09b5a1b30ef7de09e19"
+  },
   {
     "symbol": "Bitcoin cash SLP torch",
     "name": "Torch",
