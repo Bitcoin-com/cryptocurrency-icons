@@ -6,6 +6,7 @@ const alphaSort = require("alpha-sort")
 const manifest = require("../manifest.json")
 
 const overrides = new Map([
+	["TSK", "TaskToken"],
 	["VRSC", "VerusCoin"],
 	["GMR", "Gimmer"],
 	["NEXO", "Nexo"],
