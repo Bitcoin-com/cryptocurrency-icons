@@ -1,5 +1,17 @@
 [
   {
+    "symbol": "GEO",
+    "name": "Geocache token",
+    "tokenId":
+      "503c91e06d1e1de8c0d2452e73bbd824cfed2e611b5491ab9b2a97a2464166a2"
+  },
+	{
+    "symbol": "TAG",
+    "name": "You're IT!",
+    "tokenId":
+      "58bf3da9cddbe453da881f889a703ae44ef9e7f03b1a180ec20e003b7ae97a49"
+  },
+	{
     "symbol": "JAJAA",
     "name": "Jajaa Token",
     "tokenId":
