@@ -173,4 +173,10 @@
     "tokenId":
       "eebaa04d0e715b7bd21901cb60e10d7f71d219626daf24c57ce6ea9584333149",
   }
+{
+    "symbol": "SUDT",
+    "name": "SLP DOLLAR",
+    "tokenId":
+      "a9451097008e20c00f524ef398669a456ded1df4b732121eba6f0a9bde88ceb0"
+  },
 ]
