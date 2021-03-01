@@ -5,6 +5,12 @@
     "tokenId":
       "3500c3e8100e6107ee1178b70c3baa0553222cedf8fca0ac2aed9bbd9fe13667"
   },
+   {
+    "symbol": "WNRZ",
+    "name": "WinPlay",
+    "tokenId":
+      "559863e4c0e64763720dab68393b7a68e37b6dd21565e09b5a1b30ef7de09e19"
+  },
   {
     "symbol": "Bitcoin cash SLP torch",
     "name": "Torch",
@@ -167,4 +173,10 @@
     "tokenId":
       "eebaa04d0e715b7bd21901cb60e10d7f71d219626daf24c57ce6ea9584333149",
   }
+{
+    "symbol": "SUDT",
+    "name": "SLP DOLLAR",
+    "tokenId":
+      "a9451097008e20c00f524ef398669a456ded1df4b732121eba6f0a9bde88ceb0"
+  },
 ]
