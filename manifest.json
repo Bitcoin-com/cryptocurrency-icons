@@ -1,5 +1,11 @@
 [
   {
+    "symbol": "FRC",
+    "name": "Farco Coin",
+    "tokenId":
+      "0da3f3b67cafb2f1f783426da8f7446dce7a8f85f7b3ad3044ac99581c4de554"
+  },
+  {
     "symbol": "JAJAA",
     "name": "Jajaa Token",
     "tokenId":
