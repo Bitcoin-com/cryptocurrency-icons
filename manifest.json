@@ -1,5 +1,11 @@
 [
   {
+    "symbol": "PIC",
+    "name": "PiCash",
+    "tokenId":
+      "91978cc779d7f7059384f8ff312f428920a94a749924aa5e4d6ccec21d8f55a7"
+  },
+  {
     "symbol": "JAJAA",
     "name": "Jajaa Token",
     "tokenId":
